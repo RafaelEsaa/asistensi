@@ -1,0 +1,28 @@
+.body {
+    margin: 0px;
+}
+
+.no-margin {
+    margin: 0px;
+}
+
+.no-padding {
+    padding: 0px;
+}
+
+.container {
+    display: flex;
+    padding: 0px 10%;
+}
+
+.container-body {
+    padding: 50px 10%;
+}
+
+.container-footer {
+    padding: 20px 10%;
+}
+
+.text-center{
+    text-align: center;
+}
